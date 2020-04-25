@@ -1,4 +1,4 @@
-# ContributorRepo-Quickstart
+# ContributorRepo-Quickstart for everythingeverywhere
 The ContributorRepo-Quickstart is used to build repositories for contributors to the ModernApps Ninja community.
 
 The repo provides a structured environment to save assignments and records of completion for ModernApps.ninja courses and other contributions made to or in affiliation with ModernApps Ninja repositories. 
